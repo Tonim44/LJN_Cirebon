@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TestOtp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1945" />
+        <entry key="..\:/TestOtp/app/src/main/res/drawable/box.xml" value="0.1" />
+        <entry key="..\:/TestOtp/app/src/main/res/drawable/boxshadow.xml" value="0.1945" />
+        <entry key="..\:/TestOtp/app/src/main/res/drawable/button_menu.xml" value="0.1945" />
+        <entry key="..\:/TestOtp/app/src/main/res/drawable/button_shape.xml" value="0.1945" />
+        <entry key="..\:/TestOtp/app/src/main/res/drawable/oval.xml" value="0.1" />
+        <entry key="..\:/TestOtp/app/src/main/res/font/andika_new_basic.xml" value="0.11302083333333333" />
+        <entry key="..\:/TestOtp/app/src/main/res/font/architects_daughter.xml" value="0.11302083333333333" />
+        <entry key="..\:/TestOtp/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/TestOtp/app/src/main/res/layout/activity_invoice.xml" value="0.209375" />
+        <entry key="..\:/TestOtp/app/src/main/res/layout/activity_invoice_list.xml" value="0.1" />
+        <entry key="..\:/TestOtp/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/TestOtp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/TestOtp/app/src/main/res/layout/activity_otp.xml" value="0.209375" />
+        <entry key="..\:/TestOtp/app/src/main/res/layout/activity_splashscreen.xml" value="0.1953125" />
+        <entry key="..\:/TestOtp/app/src/main/res/layout/activity_subcription.xml" value="0.1" />
+        <entry key="..\:/TestOtp/app/src/main/res/layout/activity_subcription_list.xml" value="0.1" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1935" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/drawable/add_shape.xml" value="0.16" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/drawable/box.xml" value="0.2165" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/drawable/boxshadow.xml" value="0.2165" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/drawable/button_menu.xml" value="0.2165" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/drawable/button_shape.xml" value="0.1935" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1935" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/drawable/oval.xml" value="0.2165" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/drawable/oval2.xml" value="0.12" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/drawable/poligon.xml" value="0.22" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/drawable/transparant.xml" value="0.203" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/font/andika_new_basic.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/font/architects_daughter.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/activity_addsupporticket2.xml" value="0.1953125" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/activity_addsupportticket.xml" value="0.25" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/activity_departement.xml" value="0.1953125" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/activity_invoice.xml" value="0.25" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/activity_invoice_list.xml" value="0.22" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/activity_otp.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/activity_splashscreen.xml" value="0.22" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/activity_subcription.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/activity_subcription_list.xml" value="0.22" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/activity_supportticket.xml" value="0.2" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/activity_supportticket_list.xml" value="0.2" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/item_departemen.xml" value="0.33" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/item_departement.xml" value="0.25" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/item_departement2.xml" value="0.1953125" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/item_invoice.xml" value="0.25" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/item_listinvoice.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/item_listsubcription.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/item_listsupportticket.xml" value="0.22" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/item_subcription.xml" value="0.25" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/item_supportticket.xml" value="0.22" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/item_supprtticket.xml" value="0.33" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/itemilistsubcription.xml" value="0.22" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/iteminvoice.xml" value="0.33" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/itemisubcription.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/itemlistinvoice.xml" value="0.33" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/list_item.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/list_view.xml" value="0.1" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/layout/spinner_layout.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.152" />
+        <entry key="..\:/Users/User/Downloads/project_ljncirebon 2/project_ljncirebon/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/drawable/boxshadow.xml" value="0.1" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/drawable/button_shape.xml" value="0.1" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/drawable/logo_icon.xml" value="0.1" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/layout/activity_invoice.xml" value="0.2" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/layout/activity_invoice_list.xml" value="0.25" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/layout/activity_otp.xml" value="0.33" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/layout/activity_splashscreen.xml" value="0.24486571879936808" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/layout/activity_subcription.xml" value="0.21" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/layout/activity_subcription_list.xml" value="0.2663230240549828" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/layout/itemilistsubcription.xml" value="0.25" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/layout/iteminvoice.xml" value="0.25118483412322273" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/layout/itemisubcription.xml" value="0.22" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/layout/itemlistinvoice.xml" value="0.25" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/project_ljncirebon/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.2341064895408741" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_otp.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/iteminvoice.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

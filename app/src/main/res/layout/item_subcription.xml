@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/Nomorservice"
+        style="@style/IconCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/kodelangganan_subcription"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/andika_new_basic"
+                android:textColor="#B5B5B5"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/BerlangannanSejak"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/andika_new_basic"
+                android:text="Berlangganan Sejak : "
+                android:textColor="#0B0B0B"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/berlangganansejak"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/andika_new_basic"
+                android:textColor="#022E85"
+                android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/SubTotal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-48dp"
+            android:layout_marginStart="210dp"
+            android:layout_marginEnd="30dp"
+            android:fontFamily="@font/andika_new_basic"
+            android:text="Subtotal Sebelum :"
+            android:textColor="#0B0B0B"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/subtotalsebelum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="210dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="30dp"
+            android:fontFamily="@font/andika_new_basic"
+            android:textColor="#022E85"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/total_detail_subcription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="30dp"
+            android:fontFamily="@font/andika_new_basic"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/periode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginEnd="30dp"
+            android:fontFamily="@font/andika_new_basic"
+            android:text="/bulan"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/status_detail_aktif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginEnd="30dp"
+            android:fontFamily="@font/andika_new_basic"
+            android:textAlignment="center"
+            android:textColor="@color/teal_200"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/status_detail_nonaktif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="-31dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginEnd="30dp"
+                android:fontFamily="@font/andika_new_basic"
+                android:textAlignment="center"
+                android:textColor="#DA031C"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/TanggalServiceBerikutnya"
+                android:layout_width="106dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/andika_new_basic"
+                android:text="Tanggal Service Berikutnya :"
+                android:textColor="#0B0B0B"
+                android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/tanggalserviceberikutya"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="30dp"
+            android:fontFamily="@font/andika_new_basic"
+            android:textColor="#022E85"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/Pajak"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-70dp"
+            android:layout_marginStart="210dp"
+            android:layout_marginEnd="30dp"
+            android:fontFamily="@font/andika_new_basic"
+            android:text="Pajak :"
+            android:textColor="#0B0B0B"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/pajak"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/andika_new_basic"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="210dp"
+            android:layout_marginEnd="30dp"
+            android:textColor="#022E85"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/deskripsi_detail_subcription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginEnd="30dp"
+            android:layout_marginBottom="20dp"
+            android:fontFamily="@font/andika_new_basic"
+            android:text=" "
+            android:textColor="#B5B5B5"
+            android:textSize="14sp" />
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

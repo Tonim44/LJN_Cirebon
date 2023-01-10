@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LJN Cirebon</string>
+        <string name="button_label_toast">Support Tiket</string>
+        <string name="toast_message">Belum Tersedia</string>
+    <string name="nomer_invoice">NomerInvoice</string>
+    <string name="tanggal_invoice">TanggalInvoice</string>
+    <string name="total_invoice">TotalInvoice</string>
+    <string name="status_invoice">StatusInvoice</string>
+    <string name="nomor_invoice">Nomor Invoice</string>
+    <string name="tanggal_invoice1">Tanggal Invoice :</string>
+    <string name="tanggal_lunas">Tanggal Lunas</string>
+    <string name="terbayar">Terbayar</string>
+    <string name="lunas">Lunas</string>
+    <string name="jatuh_tempo">Jatuh Tempo</string>
+    <string name="total">Total</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="pembayaran">Pembayaran</string>
+    <string name="yoto">Yoto</string>
+    <string name="eti_saheti">Eti Saheti</string>
+    <string name="kode_pelanggan">%s</string>
+    <string name="user">%s</string>
+    <string name="deposit">%s</string>
+    <string name="tunggakan">%s</string>
+    <string name="select">Select Item</string>
+
+
+</resources>
